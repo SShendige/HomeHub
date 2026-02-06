@@ -1,0 +1,12 @@
+{
+  "total_messages": 12,
+  "unique_users": [
+    "dev-user",
+    "whatsapp:+916364254804"
+  ],
+  "mood_counts": {
+    "positive": 0,
+    "neutral": 12,
+    "negative": 0
+  }
+}
